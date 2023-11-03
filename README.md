@@ -40,6 +40,10 @@ Severina also wants to know:
 - Which driver is the most productive overall?
 - Each day, who was the most productive driver?
 
+  
+### Notes
+- **Ignore invoices.csv for Stage 1 - pretend it does not exist. It gets used in Stage 2.**
+
 ## Stage 2 - Stretch Goal!
 
 Severina has found another spreadsheet! This one has invoice data that drivers submit - 64 Slices is a great employer and pays for driver's gas costs.
