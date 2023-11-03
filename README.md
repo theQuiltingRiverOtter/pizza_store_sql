@@ -8,7 +8,7 @@
 
 Severina Snap has a side-hustle running a pizza store. She's not very personable, so the stores are delivery-only. The stores are known for having magical combinations of rare and various toppings.
 
-Severina and [Daldus, the owner of 32 Flavors Ice Cream](https://github.com/Code-Platoon-Assignments/sql-32-flavors-1), go way back and have always talked about combining to form their dream establishmet, Dogweed's 1024 Calories of Pizza and Ice Cream (named after [a special ingredient they both use](https://texasbeyondhistory.net/ethnobot/images/dogweed.html) for an ice cream flavor and pizza topping), but, it has yet to happen.
+Severina and [Daldus, the owner of 32 Flavors Ice Cream](https://github.com/Code-Platoon-Assignments/sql-32-flavors-1), go way back and have always talked about combining to form their dream establishment, Dogweed's 1024 Calories of Pizza and Ice Cream (named after [a special ingredient they both use](https://texasbeyondhistory.net/ethnobot/images/dogweed.html) for an ice cream flavor and pizza topping), but, it has yet to happen.
 
 Now that 32 Flavors is switching over to computers though, 64 Slices is following suit. Severina heard great things about you from Daldus and has hired you as well to build their inventory system!
 
