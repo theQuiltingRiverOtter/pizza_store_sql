@@ -12,7 +12,7 @@ Severina and [Daldus, the owner of 32 Flavors Ice Cream](https://github.com/Code
 
 Now that 32 Flavors is switching over to computers though, 64 Slices is following suit. Severina heard great things about you from Daldus and has hired you as well to build their inventory system!
 
-64 Slices is a bit more modern, they actually have been using spreadsheets to manage their inventory, but, unfortunately things are a bit disorganized.
+64 Slices is a bit more modern - they actually have been using spreadsheets to manage their inventory - but, unfortunately, things are a bit disorganized.
 
 ## Project
 
