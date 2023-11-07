@@ -32,29 +32,28 @@ For each stage ...
 
 ## Stage 1
 
-Design a conceptual data model - make an Entity-Relationship diagram - and then use that and the data itself to design your data schema and create a Postgres database and import the data into it.
+Just getting the data in will require a bit of work! Design a conceptual data model - make an Entity-Relationship diagram - and then use that and the data itself to design your data schema and create a Postgres database and import the data into it.
 
 Severina also wants to know:
 
 - How many drivers she has.
-- Which driver is the most productive overall?
-- Each day, who was the most productive driver?
+- How many deliveries has each store made?
+- How many deliveries has each driver made?
+- Which driver did the shortest delivery?
+- Which driver did the longest delivery?
 
-  
-### Notes
-- **Ignore invoices.csv for Stage 1 - pretend it does not exist. It gets used in Stage 2.**
+## Stage 2
 
-## Stage 2 - Stretch Goal!
+Severina would like some more analytics!
 
-Severina has found another spreadsheet! This one has invoice data that drivers submit - 64 Slices is a great employer and pays for driver's gas costs.
+- How much did money did they make on each order?
+- Which store made the most money?
+- Which customer spent the most money?
+- How much money did they make each month?
 
-Update your conceptual data model and data schema accordingly. 
+## Stage 3
 
-**This data is not as well organized as the rest.** It may take some work to get it into the database, and, you may want to write a Python helper script.
+Severina is curious about her drivers ...
 
-Severina also wants to know:
-
-- Which driver spent the most on gas overall?
-- Each day, which driver spent the most on gas?
-- Each day, after expenses, what is 64 Slices profit?
-
+- Which driver, on average, takes the longest?
+- Which driver, on average, is the quickest?
